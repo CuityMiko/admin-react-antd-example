@@ -19,9 +19,11 @@
   "dependencies": {
     "@types/jest": "^21.1.2",
     "@types/node": "^8.0.33",
+    "@types/prop-types": "^15.5.2",
     "@types/react": "^16.0.10",
     "@types/react-dom": "^16.0.1",
     "@types/react-redux": "^5.0.10",
+    "@types/react-router-redux": "^5.0.8",
     "animejs": "^2.2.0",
     "antd": "^2.13.4",
     "axios": "^0.16.2",
